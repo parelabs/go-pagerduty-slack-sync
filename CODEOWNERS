@@ -1,0 +1,8 @@
+# go-pagerduty-slack-sync Code Owners
+
+# Default team(s) that own all files in the repository
+* @parelabs/core-infrastructure 
+
+# Optionally define more specific ownership rules below.
+# Order is important; patterns at the end of the file take
+# precedence over patterns defined earlier in the file.
