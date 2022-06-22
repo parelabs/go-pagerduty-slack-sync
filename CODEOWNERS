@@ -1,8 +1,11 @@
 # go-pagerduty-slack-sync Code Owners
+#
+# This file is managed using terraform, DO NOT EDIT.
 
 # Default team(s) that own all files in the repository
 * @parelabs/core-infrastructure 
 
-# Optionally define more specific ownership rules below.
-# Order is important; patterns at the end of the file take
-# precedence over patterns defined earlier in the file.
+# More specific ownership rules that override the default codeowners.
+# Order is important; patterns at the end of the file take precedence
+# over patterns defined earlier in the file.
+
